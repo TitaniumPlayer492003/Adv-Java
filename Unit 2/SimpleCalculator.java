@@ -1,5 +1,5 @@
 import javax.swing.*;
-import java.awt.*;
+// import java.awt.*;
 public class SimpleCalculator {
     public static void main(String[] avi){
         
